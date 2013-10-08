@@ -1,0 +1,10 @@
+eclipse
+reload
+run
+exit
+eclipse
+clean
+reload
+compile
+run
+exit
